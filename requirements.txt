@@ -1,0 +1,17 @@
+bitarray
+boto3
+cython
+deepspeed
+editdistance
+fairscale==0.4.0
+hydra-core==1.0.7
+iopath
+more_itertools
+omegaconf==2.0.6
+pyarrow
+pytest
+sacremoses
+sentencepiece
+subword-nmt
+tokenizers
+torch==1.11.0+cu113
